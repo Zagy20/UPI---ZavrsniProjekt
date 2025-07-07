@@ -3,10 +3,13 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="ParkingApp"
+        android:label="ParkingClick"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Žagar_Kapović_ParkingClick">
+        android:theme="@style/Theme.ParkingClick">
+
+
+
 
         <activity android:name=".RegisterActivity" />
         <activity android:name=".SettingsActivity" />

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#03DAC5</color>
+    <color name="secondary">#FFC107</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorTabHome">#03DAC5</color>         <!-- zelena varijanta u dark modu -->
+    <color name="colorTabReservation">#FFD54F</color> <!-- žuta -->
+    <color name="colorTabSettings">#90CAF9</color>    <!-- svijetlo plava -->
+    <color name="colorTabInactive">#8A8A8A</color>    <!-- siva za neaktivne -->
+    <color name="primary_light">#29B6F6</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="background">#151f5c</color> <!-- tamna pozadina -->
+</resources>
